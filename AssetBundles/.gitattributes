@@ -1,4 +1,2 @@
 cussmodel filter=lfs diff=lfs merge=lfs -text
 swd filter=lfs diff=lfs merge=lfs -text
-cuss filter=lfs diff=lfs merge=lfs -text
-cubd filter=lfs diff=lfs merge=lfs -text
